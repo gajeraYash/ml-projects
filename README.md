@@ -55,7 +55,7 @@ This project predicts future stock prices using **Linear Regression** with `PyTo
    ```
    python main.py
    ```
-   This saves the trained model as `{TICKER}_model.pth` (e.g., `AAPL_model.pth`).
+   This saves the trained model as `{TICKER}_model.th` (e.g., `AAPL_model.th`).
 
 2. **Predict & Compare Future Prices (e.g., 2025)**:
    ```

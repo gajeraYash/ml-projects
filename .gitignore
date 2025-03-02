@@ -1,3 +1,9 @@
+# Ignore large data files
+dataset/*.csv
+# Ignore all log files
+logs
+# Ignore model files
+*.th 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
